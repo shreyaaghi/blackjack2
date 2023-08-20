@@ -25,7 +25,7 @@ class Main {
       game.play();
     } 
     catch (IllegalArgumentException e){
-      System.out.printf("Errored: %s\n", e.getMessage());
+      System.out.printf("Errored:  %s\n", e.getMessage());
     }
   }
 
