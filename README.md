@@ -1,5 +1,5 @@
-Scroll up and click on any of the ".java" file(s) to view my code for this project 
--------------------------------------------------------------------
+Scroll up and click on any of the ".java" files to view my code for this project (ex. Card.java, Blackjack.java, SinglePlayerGame.java)
+---------------------------------------------------------------------------------------------------------------------------------------
 
 Games: Blackjack and Go Fish
 
